@@ -17,6 +17,7 @@ This repository uses the [Jest][jest] testing framework and the [Puppeteer][pupp
 - Test files are located under the `src/` folder.
 - For speeding up the tests, remove the `slowMo` parameter.
 - To run in headless mode, set `headless` to true.
+- The lab exercise description [is in the LabExercise markdown file](LabExercise-Week11.md).
 
 ## Additional resources
 - [12 example usages of Puppeteer][12examples]
