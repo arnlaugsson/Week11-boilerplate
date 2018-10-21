@@ -1,0 +1,28 @@
+{
+  "name": "week11",
+  "version": "1.0.0",
+  "description": "A boilerplate for Jest + Puppeteer for this Week's lab exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnlaugsson/Week11.git"
+  },
+  "keywords": [
+    "jest",
+    "puppeteer",
+    "npm"
+  ],
+  "author": "Skúli Arnlaugsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnlaugsson/Week11/issues"
+  },
+  "homepage": "https://github.com/arnlaugsson/Week11#readme",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "puppeteer": "^1.9.0"
+  }
+}
